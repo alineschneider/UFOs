@@ -10,4 +10,6 @@ body {
     text-align: center;
   }
 
-  
+  .bg-dark {
+    border: 1px #343A40
+  }
